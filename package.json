@@ -1,0 +1,12 @@
+{
+  "name": "swagger-typescript-api-bug-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "prepare": "swagger-typescript-api -p source.json -o . -n result.ts"
+  },
+  "dependencies": {
+    "swagger-typescript-api": "^7.0.0"
+  }
+}

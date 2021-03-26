@@ -1,0 +1,9 @@
+{
+  "swagger": "2.0",
+  "info": {},
+  "host": "example.com",
+  "basePath": "/",
+  "tags": [],
+  "paths": {},
+  "definitions": {}
+}
